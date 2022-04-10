@@ -1,0 +1,25 @@
+.list {
+    display: grid;
+    grid-template-columns: 150px 150px 150px 150px 150px 80px 80px 80px;
+    margin-top: 10px;
+    height: 50px;
+    padding: 0 10px;
+    background-color: #eeeefa;
+    align-items: center;
+    border-radius: 2px;
+}
+
+.list-item {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.button-list {
+    background-color: transparent;
+    border: none;
+}
+
+.icon-list:hover {
+    cursor: pointer;
+}
