@@ -1,0 +1,4 @@
+{
+  "serverPORT": 3005,
+  "dbURL": "mongodb+srv://antonmerkotun:1996178dD@task3.4dens.mongodb.net/radency?retryWrites=true&w=majority"
+}
